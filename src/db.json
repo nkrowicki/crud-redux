@@ -1,18 +1,13 @@
 {
   "productos": [
     {
-      "id": 1,
-      "nombre": "Jugo de Zanahoria",
-      "precio": "31111"
-    },
-    {
       "id": 2,
       "nombre": "Jugo de Naranja",
-      "precio": "1"
+      "precio": "8100"
     },
     {
       "nombre": "Jugo de Naranja",
-      "precio": "300",
+      "precio": "30",
       "id": 3
     },
     {
@@ -27,13 +22,43 @@
     },
     {
       "nombre": "Productazo",
-      "precio": 100,
+      "precio": "50",
       "id": 10
     },
     {
       "nombre": "Papa",
-      "precio": 23,
+      "precio": "100",
       "id": 14
+    },
+    {
+      "nombre": "qew",
+      "precio": 3,
+      "id": 15
+    },
+    {
+      "nombre": "wer",
+      "precio": 3,
+      "id": 16
+    },
+    {
+      "nombre": "qwe",
+      "precio": 30,
+      "id": 17
+    },
+    {
+      "nombre": "w",
+      "precio": 2312,
+      "id": 18
+    },
+    {
+      "nombre": "qwe",
+      "precio": 3,
+      "id": 19
+    },
+    {
+      "nombre": "t",
+      "precio": 40,
+      "id": 20
     }
   ]
 }
